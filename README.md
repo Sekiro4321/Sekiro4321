@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey there, I'm Abdul Rehan!  
 
-<!--
-**Sekiro4321/Sekiro4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 B.Tech Student | AI & ML Enthusiast @ GRIET  
+🧠 Passionate about **AI, Machine Learning, and Computer Vision**  
+💻 Love building **cool projects** (sometimes last-minute 😅)  
+🎮 Occasionally dabble in **game development & web apps**  
 
-Here are some ideas to get you started:
+> “Procrastination is my rival; innovation is my weapon.”  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Current Work & Interests  
+- 🔍 **Exploring cutting-edge AI & ML** applications  
+- 🎮 **Game Development** (Remember that **JFrame Snake Game**? 🐍)
+
+---
+
+## 📌 Featured Projects  
+
+---
+
+## 🛠️ Tech Stack  
+🔥 **Languages:** Python, Java, JavaScript  
+🌐 **Web Dev:** HTML, CSS, JavaScript (DOM stuff, you know 😆)  
+
+---
+
+## 🎯 Fun Fact  
+⚡ I am either **hyper-focused** or **procrastinating like a pro**—no in-between.  
+
+---
+
+🚀 **"Code. Learn. Iterate. Repeat."**  
+*(Also, sleep is optional... right? 😅)*
